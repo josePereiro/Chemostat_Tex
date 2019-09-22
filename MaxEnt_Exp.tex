@@ -1,5 +1,6 @@
 \documentclass[]{article}
 \usepackage{graphicx}
+\usepackage{rotating}
 
 %opening
 \title{Maximum entropy and population heterogeneity in continuous cell cultures meet experimental data, preliminary results}
@@ -27,30 +28,47 @@
 	For each experiment, a steady state condition was reached, ($A$, $B$, $C$, $D$, $E$, $F01$), and several observables  was reported $Tables 3-4$. Particularly relevant for this work was the growth rate ($\mu$), $D$, the viable cell density ($Xv$) and the medium concentration ($s$) and derived uptake rate ($u$) for a set of metabolites ($GLC$, lactose ($LAC$), $GLN$, ammonium ($NH4$), $GAL$, pyruvate ($PYR$), glutamate ($GLU$), alanine ($ALA$), asparagine ($ASP$)). Unit conversion was required for make experimental data and models compatible. For this propose the only external data needed was the cell mass density. It was used  0.25 pgDW/ $\mu$$m^3$ $Niklas$.
 	 
 	 \begin{table}
+	 	\centering
 	 	\includegraphics[scale = 0.7]{Table_3_1}
 	 	\caption{Measured medium composition of the 42-MAX-UB standard medium. Extracted from $Rath$}
 	 	
 	 \end{table}
 	 
 	 \begin{table}
+	 	\centering
 	 	\includegraphics[scale = 0.7]{Table_4_10}
 	 	\caption{The dilution rates, preculture ages and the 42-Max-UB-medium modified components concentrations used in $Rath$ for the 6 steady states. Table adapted from $Rath$}
 	 	
 	 \end{table}
+ 
+ 	\begin{sidewaystable}
+ 		\centering
+ 		\includegraphics[scale = 0.7]{Table_4_11}
+ 		\caption{Steady-state values reported for $Rath$ of different parameters from continuous cultivations with varying GLC and GLN feed concentrations and with 3 mM GAL. Table taken from $Rath$}
+ 		
+ 	\end{sidewaystable}
+ 
+ 	\begin{table}
+ 		\centering
+ 		\includegraphics[scale = 0.8]{Table_4_12}
+ 		\caption{Steady-state values reported for $Rath$ of different parameters from continuous cultivations with varying GLC and GLN feed concentrations and without GAL. Table taken from $Rath$}
+ 	
+ 	\end{table}
 
-	\begin{table}
-		\includegraphics[scale = 0.7]{Table_4_11}
-		\caption{The dilution rates, preculture ages and the 42-Max-UB-medium modified components concentrations used in $Rath$ for the 6 steady states. Table adapted from $Rath$}
+	%\begin{table}
+		%\includegraphics[scale = 0.7]{Table_4_11}
+		%\caption{The dilution rates, preculture ages and the 42-Max-UB-medium modified components %concentrations used in $Rath$ for the 6 steady states. Table adapted from $Rath$}
 		
-	\end{table}
+	%\end{table}
 
 \subsection{Preparing GEMs} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	
-	In order to evaluate the capacity of the ...
+	In order to preliminary evaluate the capacity of the model to reproduce the experimental data, two Genome-scale Metabolic Models ($GEM$) was prepared.
 	
 	\subsubsection{Recon3d}
 
-	Recon3DModel\_301.mat was downloaded from http://vmh.life [2], the biomass equation was modified to adjust the biomass demand reported by [1] for the cell line AGE1\_HN. All the others original demands from recon3d were deactivated. An extra demand representing the maintenance demand of atp was set according to [5]. All the fluxes representing exchangeable metabolites (external reactions) were set as reversible (lb and ub set to a big number), so the only effective constraints (for FBA and EP) is the one produced by the chemostat consideration[4]. Additionally, to include the molecular crowding constraints we map [7] enzymatic costs, initially defined for recon1, to recon3d.\\
+	Recon3D represents the most comprehensive human metabolic network model to date $Brunk$. The model,
+	Recon3DModel\_301.mat, was downloaded from http://vmh.life. The original biomass equation was modified to adjust the biomass demand reported by $Niklas$ for the parental line AGE1\_HN. All the others original demands from recon3d were deactivated. An extra demand representing the maintenance demand, not associated with growth, of atp was set according to $Cossio$. All the fluxes representing exchangeable metabolites (external reactions) were set as reversible (lb and ub set to a big number), so the only effective constraints (for FBA and EP) is the one produced by the chemostat consideration[4]. Additionally, to include the molecular crowding constraints we map [7] enzymatic costs, initially defined for recon1, to recon3d.\\
 	The external metabolites concentrations was set according 42\_MAX\_UB feed medium [6] for each of the 6 continuous cultivation conditions. A set of extra external metabolites, not specified in the medium, was also added. Particularly, Recon3d was unable to growth without pe\_hs[e], Phosphatidylethanolamine,  (or similar) lipid in the feeding medium. Later we will discuss the impact of this metabolite in the medium.
 	
 	\subsubsection{CHO}
