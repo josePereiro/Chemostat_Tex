@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 SEP 2019 02:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 SEP 2019 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -58,34 +58,50 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box27
 \rot@mess@toks=\toks15
 )
-(./MaxEnt_Exp.aux)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count89
+\bibleftmargin=\skip45
+\bibindent=\skip46
+\bibparsep=\skip47
+\bibitemsep=\skip48
+\biblabelsep=\skip49
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (./MaxEnt_Exp.aux)
 \openout1 = `MaxEnt_Exp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
+\scratchcounter=\count90
 \scratchdimen=\dimen105
 \scratchbox=\box28
-\nofMPsegments=\count90
-\nofMParguments=\count91
+\nofMPsegments=\count91
+\nofMParguments=\count92
 \everyMPshowfont=\toks16
-\MPscratchCnt=\count92
+\MPscratchCnt=\count93
 \MPscratchDim=\dimen106
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
 \everyMPtoPDFconversion=\toks17
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -138,117 +154,118 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
-<Table_3_1.png, id=1, 509.7444pt x 449.5194pt>
-File: Table_3_1.png Graphic file (type png)
-<use Table_3_1.png>
-Package pdftex.def Info: Table_3_1.png  used on input line 35.
-(pdftex.def)             Requested size: 356.81863pt x 314.66142pt.
+\c@maskedRefs=\count96
 
-Overfull \hbox (11.81863pt too wide) in paragraph at lines 35--36
- [][] 
+(/usr/local/texlive/2019/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 25.
+
+Overfull \hbox (12.77066pt too wide) in paragraph at lines 25--27
+\OT1/cmr/m/n/10 formed 6 con-tin-u-ous cul-tures, ($\OML/cmm/m/it/10 A$\OT1/cmr
+/m/n/10 , $\OML/cmm/m/it/10 B$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 C$\OT1/cmr/m/
+n/10 , $\OML/cmm/m/it/10 D$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 E$\OT1/cmr/m/n/1
+0 , $\OML/cmm/m/it/10 F$\OT1/cmr/m/n/10 ), with the cell line AGE1.HN.AA1,
  []
 
-<Table_4_10.png, id=3, 520.8258pt x 188.3838pt>
-File: Table_4_10.png Graphic file (type png)
-<use Table_4_10.png>
-Package pdftex.def Info: Table_4_10.png  used on input line 42.
-(pdftex.def)             Requested size: 364.57558pt x 131.86775pt.
-
-Overfull \hbox (19.57558pt too wide) in paragraph at lines 42--43
- [][] 
- []
-
-<Table_4_11.png, id=4, 829.6596pt x 460.6008pt>
-File: Table_4_11.png Graphic file (type png)
-<use Table_4_11.png>
-Package pdftex.def Info: Table_4_11.png  used on input line 49.
-(pdftex.def)             Requested size: 580.75777pt x 322.41835pt.
-
-Overfull \hbox (30.75777pt too wide) in paragraph at lines 49--50
- [][] 
- []
-
-<Table_4_12.png, id=5, 268.8444pt x 445.1832pt>
-File: Table_4_12.png Graphic file (type png)
-<use Table_4_12.png>
-Package pdftex.def Info: Table_4_12.png  used on input line 56.
-(pdftex.def)             Requested size: 215.0758pt x 356.14705pt.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2 <./Table_3_1.png> <./Table_4_10.png>] [3 <./Table_4_11.png>] [4 <./Table_4_1
-2.png>] [5]
-<low_medium_1.png, id=35, 629.2308pt x 462.528pt>
+[2] (./MaxEnt_Exp.bbl) (./Tables.tex
+<Table_3_1.png, id=17, 509.7444pt x 449.5194pt>
+File: Table_3_1.png Graphic file (type png)
+<use Table_3_1.png>
+Package pdftex.def Info: Table_3_1.png  used on input line 3.
+(pdftex.def)             Requested size: 346.6216pt x 305.66913pt.
+
+Overfull \hbox (1.6216pt too wide) in paragraph at lines 3--4
+ [][] 
+ []
+
+<Table_4_10.png, id=19, 520.8258pt x 188.3838pt>
+File: Table_4_10.png Graphic file (type png)
+<use Table_4_10.png>
+Package pdftex.def Info: Table_4_10.png  used on input line 10.
+(pdftex.def)             Requested size: 328.12198pt x 118.6824pt.
+<Table_4_11.png, id=20, 829.6596pt x 460.6008pt>
+File: Table_4_11.png Graphic file (type png)
+<use Table_4_11.png>
+Package pdftex.def Info: Table_4_11.png  used on input line 17.
+(pdftex.def)             Requested size: 580.75777pt x 322.41835pt.
+
+Overfull \hbox (30.75777pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+<Table_4_12.png, id=21, 268.8444pt x 445.1832pt>
+File: Table_4_12.png Graphic file (type png)
+<use Table_4_12.png>
+Package pdftex.def Info: Table_4_12.png  used on input line 24.
+(pdftex.def)             Requested size: 215.0758pt x 356.14705pt.
+) (./Figures.tex
+<low_medium_1.png, id=22, 629.2308pt x 462.528pt>
 File: low_medium_1.png Graphic file (type png)
 <use low_medium_1.png>
-Package pdftex.def Info: low_medium_1.png  used on input line 87.
+Package pdftex.def Info: low_medium_1.png  used on input line 2.
 (pdftex.def)             Requested size: 314.61462pt x 231.26343pt.
-<low_medium_2.png, id=36, 631.158pt x 456.2646pt>
+<low_medium_2.png, id=23, 631.158pt x 456.2646pt>
 File: low_medium_2.png Graphic file (type png)
 <use low_medium_2.png>
-Package pdftex.def Info: low_medium_2.png  used on input line 93.
+Package pdftex.def Info: low_medium_2.png  used on input line 8.
 (pdftex.def)             Requested size: 315.57823pt x 228.13174pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<rich_medium_1.png, id=37, 646.0938pt x 462.528pt>
+<rich_medium_1.png, id=24, 646.0938pt x 462.528pt>
 File: rich_medium_1.png Graphic file (type png)
 <use rich_medium_1.png>
-Package pdftex.def Info: rich_medium_1.png  used on input line 101.
+Package pdftex.def Info: rich_medium_1.png  used on input line 14.
 (pdftex.def)             Requested size: 323.04611pt x 231.26343pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<rich_medium_2.png, id=38, 630.1944pt x 455.301pt>
+<rich_medium_2.png, id=25, 630.1944pt x 455.301pt>
 File: rich_medium_2.png Graphic file (type png)
 <use rich_medium_2.png>
-Package pdftex.def Info: rich_medium_2.png  used on input line 107.
+Package pdftex.def Info: rich_medium_2.png  used on input line 20.
 (pdftex.def)             Requested size: 315.09642pt x 227.64993pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<rich_medium_3.png, id=39, 631.158pt x 454.3374pt>
+<rich_medium_3.png, id=26, 631.158pt x 454.3374pt>
 File: rich_medium_3.png Graphic file (type png)
 <use rich_medium_3.png>
-Package pdftex.def Info: rich_medium_3.png  used on input line 113.
+Package pdftex.def Info: rich_medium_3.png  used on input line 26.
 (pdftex.def)             Requested size: 315.57823pt x 227.16814pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./low_medium_1.png>] [7 <./low_medium_2.png>] [8 <./rich_medium_1.png>]
-[9 <./rich_medium_2.png> <./rich_medium_3.png>] (./MaxEnt_Exp.aux) ) 
+) [3] [4 <./Table_3_1.png> <./Table_4_10.png>] [5 <./Table_4_11.png>] [6 <./Tab
+le_4_12.png>] [7 <./low_medium_1.png>] [8 <./low_medium_2.png>] [9 <./rich_medi
+um_1.png>] [10 <./rich_medium_2.png> <./rich_medium_3.png>]
+(./MaxEnt_Exp.aux) ) 
 Here is how much of TeX's memory you used:
- 1588 strings out of 492616
- 23060 string characters out of 6129482
- 91093 words of memory out of 5000000
- 5502 multiletter control sequences out of 15000+600000
- 7895 words of font info for 28 fonts, out of 8000000 for 9000
+ 2147 strings out of 492616
+ 30380 string characters out of 6129482
+ 101787 words of memory out of 5000000
+ 6038 multiletter control sequences out of 15000+600000
+ 8409 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,25p,794b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/
-texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/201
-9/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MaxEnt_Exp.pdf (9 pages, 1723834 bytes).
+ 41i,9n,25p,866b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on MaxEnt_Exp.pdf (10 pages, 1756521 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

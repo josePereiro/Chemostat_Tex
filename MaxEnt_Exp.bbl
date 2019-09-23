@@ -1,0 +1,196 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Brunk%
+\ \protect \BOthers {.}}{%
+Brunk%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Brunk2018}
+\APACinsertmetastar {%
+Brunk2018}%
+\begin{APACrefauthors}%
+Brunk, E.%
+, Sahoo, S.%
+, Zielinski, D\BPBI C.%
+, Altunkaya, A.%
+, Dr{\"{a}}ger, A.%
+, Mih, N.%
+\BDBL {}Palsson, B\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Recon3D enables a three-dimensional view of gene
+  variation in human metabolism}} {{Recon3D enables a three-dimensional view of
+  gene variation in human metabolism}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Publishing Group}{}{June 2016}{}.
+\newblock
+\begin{APACrefURL} \url{http://dx.doi.org/10.1038/nbt.4072} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1038/nbt.4072} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fernandez-de Cossio-Diaz%
+, Leon%
+\BCBL {}\ \BBA {} Mulet%
+}{%
+Fernandez-de Cossio-Diaz%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Fernandez-de-Cossio-Diaz2017}
+\APACinsertmetastar {%
+Fernandez-de-Cossio-Diaz2017}%
+\begin{APACrefauthors}%
+Fernandez-de Cossio-Diaz, J.%
+, Leon, K.%
+\BCBL {}\ \BBA {} Mulet, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Characterizing steady states of genome-scale metabolic
+  networks in continuous cell cultures}} {{Characterizing steady states of
+  genome-scale metabolic networks in continuous cell cultures}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS Computational Biology}{13}{11}{1--22}.
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pcbi.1005835} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fernandez-de Cossio-Diaz%
+\ \BBA {} Mulet%
+}{%
+Fernandez-de Cossio-Diaz%
+\ \BBA {} Mulet%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Fernandez-de-Cossio-Diaz2018b}
+\APACinsertmetastar {%
+Fernandez-de-Cossio-Diaz2018b}%
+\begin{APACrefauthors}%
+Fernandez-de Cossio-Diaz, J.%
+\BCBT {}\ \BBA {} Mulet, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Maximum entropy and population heterogeneity in
+  continuous cell cultures}} {{Maximum entropy and population heterogeneity in
+  continuous cell cultures}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS Computational Biology}{15}{2}{}.
+\newblock
+\begin{APACrefURL} \url{http://arxiv.org/abs/1807.03982} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pcbi.1006823} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hefzi%
+\ \protect \BOthers {.}}{%
+Hefzi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Hefzi2016a}
+\APACinsertmetastar {%
+Hefzi2016a}%
+\begin{APACrefauthors}%
+Hefzi, H.%
+, Ang, K\BPBI S.%
+, Hanscho, M.%
+, Bordbar, A.%
+, Ruckerbauer, D.%
+, Lakshmanan, M.%
+\BDBL {}Lewis, N\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A Consensus Genome-scale Reconstruction of Chinese
+  Hamster Ovary Cell Metabolism}} {{A Consensus Genome-scale Reconstruction of
+  Chinese Hamster Ovary Cell Metabolism}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cell Systems}{3}{5}{434--443.e8}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.cels.2016.10.020} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Niklas%
+, Schr{\"{a}}der%
+, Sandig%
+, Noll%
+\BCBL {}\ \BBA {} Heinzle%
+}{%
+Niklas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Niklas2010}
+\APACinsertmetastar {%
+Niklas2010}%
+\begin{APACrefauthors}%
+Niklas, J.%
+, Schr{\"{a}}der, E.%
+, Sandig, V.%
+, Noll, T.%
+\BCBL {}\ \BBA {} Heinzle, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Quantitative characterization of metabolism and
+  metabolic shifts during growth of the new human cell line AGE1.HN using time
+  resolved metabolic flux analysis}} {{Quantitative characterization of
+  metabolism and metabolic shifts during growth of the new human cell line
+  AGE1.HN using time resolved metabolic flux analysis}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bioprocess and Biosystems
+  Engineering}{34}{5}{533--545}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s00449-010-0502-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rath%
+}{%
+Rath%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Rath2017a}
+\APACinsertmetastar {%
+Rath2017a}%
+\begin{APACrefauthors}%
+Rath, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\unskip\
+\newblock
+\APACrefbtitle {{Characterisation of cell growth, metabolism and recombinant
+  protein production during transient and steady state conditions for the human
+  cell line AGE1.HN-AAT}} {{Characterisation of cell growth, metabolism and
+  recombinant protein production during transient and steady state conditions
+  for the human cell line AGE1.HN-AAT}}\ \APACtypeAddressSchool {\BPhD}{}{}.
+\unskip\
+\newblock
+\begin{APACrefURL} \url{https://pure.mpg.de/pubman/item/item{\_}2508673{\_}4}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
