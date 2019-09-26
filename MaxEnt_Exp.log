@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 SEP 2019 06:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 SEP 2019 09:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,14 +184,20 @@ n/10 , $\OML/cmm/m/it/10 D$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 E$\OT1/cmr/m/n/1
 )) (./Results.tex (./Low_conc_Results.tex [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./Hig
-h_conc_Results.tex [2]
+h_conc_Results.tex
+Overfull \hbox (12.50832pt too wide) in paragraph at lines 11--1
+[]\OT1/cmr/m/n/10 On the other hand, cor-re-la-tions of ex-per-i-men-tal and mo
+d-eled up-takes, $\OML/cmm/m/it/10 Figure \OT1/cmr/m/n/10 2$,
+ []
+
+[2]
 Overfull \hbox (28.2441pt too wide) in paragraph at lines 9--10
 \OT1/cmr/m/n/10 can in-flu-ence the het-ero-gene-ity of a pop-u-la-tion of cell
 s "$\OML/cmm/m/it/10 SacarcitasdeCossio\OT1/cmr/m/n/10 2019\OML/cmm/m/it/10 pag
 \OT1/cmr/m/n/10 3$".
  []
 
-[3])) (./References.tex (./MaxEnt_Exp.bbl
+)) (./References.tex (./MaxEnt_Exp.bbl [3]
 Underfull \hbox (badness 5954) in paragraph at lines 79--100
 []\OT1/cmr/m/n/10 Niklas, J., Pries-nitz, C., Rose, T., Sandig, V., & Hein-zle,
  E.
@@ -310,7 +316,7 @@ Here is how much of TeX's memory you used:
  6033 multiletter control sequences out of 15000+600000
  8101 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,25p,1507b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,25p,1528b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfon
@@ -321,7 +327,7 @@ cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb>
-Output written on MaxEnt_Exp.pdf (12 pages, 1717542 bytes).
+Output written on MaxEnt_Exp.pdf (12 pages, 1717630 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
