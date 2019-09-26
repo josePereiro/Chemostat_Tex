@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 SEP 2019 03:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 SEP 2019 06:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,8 +184,14 @@ n/10 , $\OML/cmm/m/it/10 D$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 E$\OT1/cmr/m/n/1
 )) (./Results.tex (./Low_conc_Results.tex [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./Hig
-h_conc_Results.tex [2]))
-(./References.tex (./MaxEnt_Exp.bbl
+h_conc_Results.tex [2]
+Overfull \hbox (28.2441pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/n/10 can in-flu-ence the het-ero-gene-ity of a pop-u-la-tion of cell
+s "$\OML/cmm/m/it/10 SacarcitasdeCossio\OT1/cmr/m/n/10 2019\OML/cmm/m/it/10 pag
+\OT1/cmr/m/n/10 3$".
+ []
+
+[3])) (./References.tex (./MaxEnt_Exp.bbl
 Underfull \hbox (badness 5954) in paragraph at lines 79--100
 []\OT1/cmr/m/n/10 Niklas, J., Pries-nitz, C., Rose, T., Sandig, V., & Hein-zle,
  E.
@@ -209,7 +215,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--100
  []
 
 )) (./Tables.tex
-<Table_3_1.png, id=16, 509.7444pt x 449.5194pt>
+<Table_3_1.png, id=19, 509.7444pt x 449.5194pt>
 File: Table_3_1.png Graphic file (type png)
 <use Table_3_1.png>
 Package pdftex.def Info: Table_3_1.png  used on input line 3.
@@ -222,7 +228,7 @@ Overfull \hbox (1.6216pt too wide) in paragraph at lines 3--4
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Table_4_10.png, id=18, 520.8258pt x 188.3838pt>
+<Table_4_10.png, id=21, 520.8258pt x 188.3838pt>
 File: Table_4_10.png Graphic file (type png)
 <use Table_4_10.png>
 Package pdftex.def Info: Table_4_10.png  used on input line 10.
@@ -230,7 +236,7 @@ Package pdftex.def Info: Table_4_10.png  used on input line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Table_4_11.png, id=19, 829.6596pt x 460.6008pt>
+<Table_4_11.png, id=22, 829.6596pt x 460.6008pt>
 File: Table_4_11.png Graphic file (type png)
 <use Table_4_11.png>
 Package pdftex.def Info: Table_4_11.png  used on input line 17.
@@ -243,7 +249,7 @@ Overfull \hbox (30.75777pt too wide) in paragraph at lines 17--18
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Table_4_12.png, id=20, 268.8444pt x 445.1832pt>
+<Table_4_12.png, id=23, 268.8444pt x 445.1832pt>
 File: Table_4_12.png Graphic file (type png)
 <use Table_4_12.png>
 Package pdftex.def Info: Table_4_12.png  used on input line 24.
@@ -252,7 +258,7 @@ Package pdftex.def Info: Table_4_12.png  used on input line 24.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./Figures.tex
-<low_medium_1.png, id=21, 629.2308pt x 462.528pt>
+<low_medium_1.png, id=24, 629.2308pt x 462.528pt>
 File: low_medium_1.png Graphic file (type png)
 <use low_medium_1.png>
 Package pdftex.def Info: low_medium_1.png  used on input line 2.
@@ -261,7 +267,7 @@ Package pdftex.def Info: low_medium_1.png  used on input line 2.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<low_medium_2.png, id=22, 631.158pt x 456.2646pt>
+<low_medium_2.png, id=25, 631.158pt x 456.2646pt>
 File: low_medium_2.png Graphic file (type png)
 <use low_medium_2.png>
 Package pdftex.def Info: low_medium_2.png  used on input line 8.
@@ -269,7 +275,7 @@ Package pdftex.def Info: low_medium_2.png  used on input line 8.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<rich_medium_1.png, id=23, 646.0938pt x 462.528pt>
+<rich_medium_1.png, id=26, 646.0938pt x 462.528pt>
 File: rich_medium_1.png Graphic file (type png)
 <use rich_medium_1.png>
 Package pdftex.def Info: rich_medium_1.png  used on input line 14.
@@ -277,7 +283,7 @@ Package pdftex.def Info: rich_medium_1.png  used on input line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<rich_medium_2.png, id=24, 630.1944pt x 455.301pt>
+<rich_medium_2.png, id=27, 630.1944pt x 455.301pt>
 File: rich_medium_2.png Graphic file (type png)
 <use rich_medium_2.png>
 Package pdftex.def Info: rich_medium_2.png  used on input line 20.
@@ -285,7 +291,7 @@ Package pdftex.def Info: rich_medium_2.png  used on input line 20.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<rich_medium_3.png, id=25, 638.385pt x 454.3374pt>
+<rich_medium_3.png, id=28, 638.385pt x 454.3374pt>
 File: rich_medium_3.png Graphic file (type png)
 <use rich_medium_3.png>
 Package pdftex.def Info: rich_medium_3.png  used on input line 26.
@@ -293,9 +299,9 @@ Package pdftex.def Info: rich_medium_3.png  used on input line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [3] [4 <./Table_3_1.png> <./Table_4_10.png>] [5 <./Table_4_11.png>] [6 <./Tab
-le_4_12.png>] [7 <./low_medium_1.png>] [8 <./low_medium_2.png>] [9 <./rich_medi
-um_1.png>] [10 <./rich_medium_2.png>] [11 <./rich_medium_3.png>]
+) [4] [5 <./Table_3_1.png> <./Table_4_10.png>] [6 <./Table_4_11.png>] [7 <./Tab
+le_4_12.png>] [8 <./low_medium_1.png>] [9 <./low_medium_2.png>] [10 <./rich_med
+ium_1.png>] [11 <./rich_medium_2.png>] [12 <./rich_medium_3.png>]
 (./MaxEnt_Exp.aux) ) 
 Here is how much of TeX's memory you used:
  2162 strings out of 492616
@@ -304,7 +310,7 @@ Here is how much of TeX's memory you used:
  6033 multiletter control sequences out of 15000+600000
  8101 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,25p,1459b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,25p,1507b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfon
@@ -315,10 +321,10 @@ cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb>
-Output written on MaxEnt_Exp.pdf (11 pages, 1712696 bytes).
+Output written on MaxEnt_Exp.pdf (12 pages, 1717542 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
