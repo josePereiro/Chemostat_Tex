@@ -1,40 +1,6 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Brunk%
-\ \protect \BOthers {.}}{%
-Brunk%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
-}]{%
-Brunk2018}
-\APACinsertmetastar {%
-Brunk2018}%
-\begin{APACrefauthors}%
-Brunk, E.%
-, Sahoo, S.%
-, Zielinski, D\BPBI C.%
-, Altunkaya, A.%
-, Dr{\"{a}}ger, A.%
-, Mih, N.%
-\BDBL {}Palsson, B\BPBI O.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Recon3D enables a three-dimensional view of gene
-  variation in human metabolism}} {{Recon3D enables a three-dimensional view of
-  gene variation in human metabolism}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Nature Publishing Group}{}{June 2016}{}.
-\newblock
-\begin{APACrefURL} \url{http://dx.doi.org/10.1038/nbt.4072} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1038/nbt.4072} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Fernandez-de Cossio-Diaz%
 , Leon%
 \BCBL {}\ \BBA {} Mulet%
@@ -96,35 +62,40 @@ Fernandez-de Cossio-Diaz, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Hefzi%
+Niklas%
+, Priesnitz%
+, Rose%
+, Sandig%
+\BCBL {}\ \BBA {} Heinzle%
+}{%
+Niklas%
 \ \protect \BOthers {.}}{%
-Hefzi%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2016}}%
+{\protect \APACyear {2013}}%
 }]{%
-Hefzi2016a}
+Niklas2013}
 \APACinsertmetastar {%
-Hefzi2016a}%
+Niklas2013}%
 \begin{APACrefauthors}%
-Hefzi, H.%
-, Ang, K\BPBI S.%
-, Hanscho, M.%
-, Bordbar, A.%
-, Ruckerbauer, D.%
-, Lakshmanan, M.%
-\BDBL {}Lewis, N\BPBI E.%
+Niklas, J.%
+, Priesnitz, C.%
+, Rose, T.%
+, Sandig, V.%
+\BCBL {}\ \BBA {} Heinzle, E.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2016}{}{}.
+\APACrefYearMonthDay{2013}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{A Consensus Genome-scale Reconstruction of Chinese
-  Hamster Ovary Cell Metabolism}} {{A Consensus Genome-scale Reconstruction of
-  Chinese Hamster Ovary Cell Metabolism}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Metabolism and metabolic burden by a 1 -antitrypsin
+  production}} {{Metabolism and metabolic burden by a 1 -antitrypsin
+  production}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Cell Systems}{3}{5}{434--443.e8}.
+\APACjournalVolNumPages{Metabolic Engineering}{16}{}{103--114}.
 \newblock
-\begin{APACrefDOI} \doi{10.1016/j.cels.2016.10.020} \end{APACrefDOI}
+\begin{APACrefURL} \url{http://dx.doi.org/10.1016/j.ymben.2013.01.002}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.ymben.2013.01.002} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -138,9 +109,9 @@ Niklas%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2011}}%
 }]{%
-Niklas2010}
+Niklas2011}
 \APACinsertmetastar {%
-Niklas2010}%
+Niklas2011}%
 \begin{APACrefauthors}%
 Niklas, J.%
 , Schr{\"{a}}der, E.%
