@@ -1,105 +1,75 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Brunk%
+Beg%
 \ \protect \BOthers {.}}{%
-Brunk%
+Beg%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
+{\protect \APACyear {2007}}%
 }]{%
-Brunk2018}
+beg_intracellular_2007}
 \APACinsertmetastar {%
-Brunk2018}%
+beg_intracellular_2007}%
 \begin{APACrefauthors}%
-Brunk, E.%
-, Sahoo, S.%
-, Zielinski, D\BPBI C.%
-, Altunkaya, A.%
-, Dr{\"{a}}ger, A.%
-, Mih, N.%
-\BDBL {}Palsson, B\BPBI O.%
+Beg, Q\BPBI K.%
+, Vazquez, A.%
+, Ernst, J.%
+, Menezes, M\BPBI A\BPBI d.%
+, Bar-Joseph, Z.%
+, Barabási, A\BHBI L.%
+\BCBL {}\ \BBA {} Oltvai, Z\BPBI N.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2018}{}{}.
+\APACrefYearMonthDay{2007}{{\APACmonth{07}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Recon3D enables a three-dimensional view of gene
-  variation in human metabolism}} {{Recon3D enables a three-dimensional view of
-  gene variation in human metabolism}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Intracellular crowding defines the mode and sequence of
+  substrate uptake by {Escherichia} coli and constrains its metabolic activity}
+  {Intracellular crowding defines the mode and sequence of substrate uptake by
+  {Escherichia} coli and constrains its metabolic activity}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Nature Biotechnology}{36}{3}{272--281}.
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{104}{31}{12663--12668}.
 \newblock
-\begin{APACrefURL} \url{http://dx.doi.org/10.1038/nbt.4072} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1038/nbt.4072} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Delvigne%
-, Zune%
-, Lara%
-, Al-Soud%
-\BCBL {}\ \BBA {} S{\o}rensen%
-}{%
-Delvigne%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2014}}%
-}]{%
-Delvigne2014}
-\APACinsertmetastar {%
-Delvigne2014}%
-\begin{APACrefauthors}%
-Delvigne, F.%
-, Zune, Q.%
-, Lara, A\BPBI R.%
-, Al-Soud, W.%
-\BCBL {}\ \BBA {} S{\o}rensen, S\BPBI J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Metabolic variability in bioprocessing: Implications of
-  microbial phenotypic heterogeneity}} {{Metabolic variability in
-  bioprocessing: Implications of microbial phenotypic heterogeneity}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Trends in Biotechnology}{32}{12}{608--616}.
-\newblock
-\begin{APACrefURL} \url{http://dx.doi.org/10.1016/j.tibtech.2014.10.002}
+\begin{APACrefURL}
+  [{2019-11-06}]\url{https://www.pnas.org/content/104/31/12663}
   \end{APACrefURL}
 \newblock
-\begin{APACrefDOI} \doi{10.1016/j.tibtech.2014.10.002} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.1073/pnas.0609845104} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Elowitz%
-, Levine%
-, Siggia%
-\BCBL {}\ \BBA {} Swain%
+De~Martino%
+\ \BBA {} De~Martino%
 }{%
-Elowitz%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2002}}%
+De~Martino%
+\ \BBA {} De~Martino%
+}{%
+{\protect \APACyear {2018}}%
 }]{%
-Elowitz2002}
+de_martino_introduction_2018}
 \APACinsertmetastar {%
-Elowitz2002}%
+de_martino_introduction_2018}%
 \begin{APACrefauthors}%
-Elowitz, M\BPBI B.%
-, Levine, A\BPBI J.%
-, Siggia, E\BPBI D.%
-\BCBL {}\ \BBA {} Swain, P\BPBI S.%
+De~Martino, A.%
+\BCBT {}\ \BBA {} De~Martino, D.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2002}{}{}.
+\APACrefYearMonthDay{2018}{{\APACmonth{04}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Stochastic gene expression in a single cell}}
-  {{Stochastic gene expression in a single cell}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {An introduction to the maximum entropy approach and its
+  application to inference problems in biology} {An introduction to the maximum
+  entropy approach and its application to inference problems in
+  biology}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Science}{297}{5584}{1183--1186}.
+\APACjournalVolNumPages{Heliyon}{4}{4}{e00596}.
 \newblock
-\begin{APACrefDOI} \doi{10.1126/science.1070919} \end{APACrefDOI}
+\begin{APACrefURL}
+  [{2019-10-25}]\url{https://linkinghub.elsevier.com/retrieve/pii/S2405844018301695}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.heliyon.2018.e00596} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -111,9 +81,9 @@ Fernandez-de Cossio-Diaz%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2017}}%
 }]{%
-Fernandez-de-Cossio-Diaz2017}
+fernandez-de-cossio-diaz_characterizing_2017}
 \APACinsertmetastar {%
-Fernandez-de-Cossio-Diaz2017}%
+fernandez-de-cossio-diaz_characterizing_2017}%
 \begin{APACrefauthors}%
 Fernandez-de Cossio-Diaz, J.%
 , Leon, K.%
@@ -123,9 +93,9 @@ Fernandez-de Cossio-Diaz, J.%
 \newblock
 \APACrefYearMonthDay{2017}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Characterizing steady states of genome-scale metabolic
-  networks in continuous cell cultures}} {{Characterizing steady states of
-  genome-scale metabolic networks in continuous cell cultures}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Characterizing steady states of genome-scale metabolic
+  networks in continuous cell cultures} {Characterizing steady states of
+  genome-scale metabolic networks in continuous cell cultures}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{PLoS Computational Biology}{13}{11}{1--22}.
 \newblock
@@ -141,183 +111,60 @@ Fernandez-de Cossio-Diaz%
 }{%
 {\protect \APACyear {2019}}%
 }]{%
-Fernandez-de-Cossio-Diaz2018b}
+fernandez-de-cossio-diaz_maximum_2019}
 \APACinsertmetastar {%
-Fernandez-de-Cossio-Diaz2018b}%
+fernandez-de-cossio-diaz_maximum_2019}%
 \begin{APACrefauthors}%
 Fernandez-de Cossio-Diaz, J.%
 \BCBT {}\ \BBA {} Mulet, R.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2019}{}{}.
+\APACrefYearMonthDay{2019}{{\APACmonth{02}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Maximum entropy and population heterogeneity in
-  continuous cell cultures}} {{Maximum entropy and population heterogeneity in
-  continuous cell cultures}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Maximum entropy and population heterogeneity in
+  continuous cell cultures} {Maximum entropy and population heterogeneity in
+  continuous cell cultures}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{PLoS Computational Biology}{15}{2}{1--22}.
+\APACjournalVolNumPages{PLOS Computational Biology}{15}{2}{e1006823}.
 \newblock
-\begin{APACrefURL} \url{http://arxiv.org/abs/1807.03982} \end{APACrefURL}
+\begin{APACrefURL}
+  [{2019-10-31}]\url{https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006823}
+  \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1371/journal.pcbi.1006823} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
 Fernandez-de Cossio-Diaz%
-, Mulet%
-\BCBL {}\ \BBA {} Vazquez%
+\ \BBA {} Vazquez%
 }{%
 Fernandez-de Cossio-Diaz%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2019}}%
+\ \BBA {} Vazquez%
+}{%
+{\protect \APACyear {2018}}%
 }]{%
-Fernandez-de-Cossio-Diaz2019}
+fernandez-de-cossio-diaz_physical_2018}
 \APACinsertmetastar {%
-Fernandez-de-Cossio-Diaz2019}%
+fernandez-de-cossio-diaz_physical_2018}%
 \begin{APACrefauthors}%
 Fernandez-de Cossio-Diaz, J.%
-, Mulet, R.%
-\BCBL {}\ \BBA {} Vazquez, A.%
+\BCBT {}\ \BBA {} Vazquez, A.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2019}{}{}.
+\APACrefYearMonthDay{2018}{{\APACmonth{05}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Cell population heterogeneity driven by stochastic
-  partition and growth optimality}} {{Cell population heterogeneity driven by
-  stochastic partition and growth optimality}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {A physical model of cell metabolism} {A physical model
+  of cell metabolism}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Scientific Reports}{9}{1}{1--17}.
+\APACjournalVolNumPages{Scientific Reports}{8}{1}{1--13}.
 \newblock
-\begin{APACrefDOI} \doi{10.1038/s41598-019-45882-w} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Gonz{\'{a}}lez-Cabaleiro%
-, Mitchell%
-, Smith%
-, Wipat%
-\BCBL {}\ \BBA {} Ofiteru%
-}{%
-Gonz{\'{a}}lez-Cabaleiro%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2017}}%
-}]{%
-Gonzalez-Cabaleiro2017}
-\APACinsertmetastar {%
-Gonzalez-Cabaleiro2017}%
-\begin{APACrefauthors}%
-Gonz{\'{a}}lez-Cabaleiro, R.%
-, Mitchell, A\BPBI M.%
-, Smith, W.%
-, Wipat, A.%
-\BCBL {}\ \BBA {} Ofiteru, I\BPBI D.%
-\end{APACrefauthors}%
-\unskip\
+\begin{APACrefURL}
+  [{2019-12-09}]\url{https://www.nature.com/articles/s41598-018-26724-7}
+  \end{APACrefURL}
 \newblock
-\APACrefYearMonthDay{2017}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Heterogeneity in pure microbial systems: Experimental
-  measurements and modeling}} {{Heterogeneity in pure microbial systems:
-  Experimental measurements and modeling}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Frontiers in Microbiology}{8}{SEP}{1--8}.
-\newblock
-\begin{APACrefDOI} \doi{10.3389/fmicb.2017.01813} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Hefzi%
-\ \protect \BOthers {.}}{%
-Hefzi%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2016}}%
-}]{%
-Hefzi2016a}
-\APACinsertmetastar {%
-Hefzi2016a}%
-\begin{APACrefauthors}%
-Hefzi, H.%
-, Ang, K\BPBI S.%
-, Hanscho, M.%
-, Bordbar, A.%
-, Ruckerbauer, D.%
-, Lakshmanan, M.%
-\BDBL {}Lewis, N\BPBI E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{A Consensus Genome-scale Reconstruction of Chinese
-  Hamster Ovary Cell Metabolism}} {{A Consensus Genome-scale Reconstruction of
-  Chinese Hamster Ovary Cell Metabolism}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Cell Systems}{3}{5}{434--443.e8}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.cels.2016.10.020} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Huh%
-\ \BBA {} Paulsson%
-}{%
-Huh%
-\ \BBA {} Paulsson%
-}{%
-{\protect \APACyear {2011}}%
-}]{%
-Huh2011}
-\APACinsertmetastar {%
-Huh2011}%
-\begin{APACrefauthors}%
-Huh, D.%
-\BCBT {}\ \BBA {} Paulsson, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Random partitioning of molecules at cell division}}
-  {{Random partitioning of molecules at cell division}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Proceedings of the National Academy of Sciences of the
-  United States of America}{108}{36}{15004--15009}.
-\newblock
-\begin{APACrefDOI} \doi{10.1073/pnas.1013171108} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-King%
-\ \protect \BOthers {.}}{%
-King%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2016}}%
-}]{%
-King2016}
-\APACinsertmetastar {%
-King2016}%
-\begin{APACrefauthors}%
-King, Z\BPBI A.%
-, Lu, J.%
-, Dr{\"{a}}ger, A.%
-, Miller, P.%
-, Federowicz, S.%
-, Lerman, J\BPBI A.%
-\BDBL {}Lewis, N\BPBI E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{BiGG Models: A platform for integrating, standardizing
-  and sharing genome-scale models}} {{BiGG Models: A platform for integrating,
-  standardizing and sharing genome-scale models}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Nucleic Acids Research}{44}{D1}{D515--D522}.
-\newblock
-\begin{APACrefDOI} \doi{10.1093/nar/gkv1049} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.1038/s41598-018-26724-7} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -331,9 +178,9 @@ Niklas%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2013}}%
 }]{%
-Niklas2013}
+niklas_metabolism_2013}
 \APACinsertmetastar {%
-Niklas2013}%
+niklas_metabolism_2013}%
 \begin{APACrefauthors}%
 Niklas, J.%
 , Priesnitz, C.%
@@ -345,9 +192,9 @@ Niklas, J.%
 \newblock
 \APACrefYearMonthDay{2013}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Metabolism and metabolic burden by a 1 -antitrypsin
-  production}} {{Metabolism and metabolic burden by a 1 -antitrypsin
-  production}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Metabolism and metabolic burden by a 1 -antitrypsin
+  production} {Metabolism and metabolic burden by a 1 -antitrypsin
+  production}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Metabolic Engineering}{16}{}{103--114}.
 \newblock
@@ -359,7 +206,7 @@ Niklas, J.%
 
 \bibitem [\protect \citeauthoryear {%
 Niklas%
-, Schr{\"{a}}der%
+, Schräder%
 , Sandig%
 , Noll%
 \BCBL {}\ \BBA {} Heinzle%
@@ -368,12 +215,12 @@ Niklas%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2011}}%
 }]{%
-Niklas2011}
+niklas_quantitative_2011}
 \APACinsertmetastar {%
-Niklas2011}%
+niklas_quantitative_2011}%
 \begin{APACrefauthors}%
 Niklas, J.%
-, Schr{\"{a}}der, E.%
+, Schräder, E.%
 , Sandig, V.%
 , Noll, T.%
 \BCBL {}\ \BBA {} Heinzle, E.%
@@ -382,16 +229,47 @@ Niklas, J.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Quantitative characterization of metabolism and
-  metabolic shifts during growth of the new human cell line AGE1.HN using time
-  resolved metabolic flux analysis}} {{Quantitative characterization of
+{\BBOQ}\APACrefatitle {Quantitative characterization of metabolism and
+  metabolic shifts during growth of the new human cell line {AGE1}.{HN} using
+  time resolved metabolic flux analysis} {Quantitative characterization of
   metabolism and metabolic shifts during growth of the new human cell line
-  AGE1.HN using time resolved metabolic flux analysis}}.{\BBCQ}
+  {AGE1}.{HN} using time resolved metabolic flux analysis}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Bioprocess and Biosystems
   Engineering}{34}{5}{533--545}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s00449-010-0502-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Orth%
+, Thiele%
+\BCBL {}\ \BBA {} Palsson%
+}{%
+Orth%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+orth_what_2010}
+\APACinsertmetastar {%
+orth_what_2010}%
+\begin{APACrefauthors}%
+Orth, J\BPBI D.%
+, Thiele, I.%
+\BCBL {}\ \BBA {} Palsson, B\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What is flux balance analysis?} {What is flux balance
+  analysis?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Biotechnology}{28}{3}{245--248}.
+\newblock
+\begin{APACrefURL} \url{http://dx.doi.org/10.1038/nbt.1614} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1038/nbt.1614} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -401,9 +279,9 @@ Rath%
 }{%
 {\protect \APACyear {2017}}%
 }]{%
-Rath2017a}
+rath_characterisation_2017}
 \APACinsertmetastar {%
-Rath2017a}%
+rath_characterisation_2017}%
 \begin{APACrefauthors}%
 Rath, A.%
 \end{APACrefauthors}%
@@ -412,15 +290,49 @@ Rath, A.%
 \APACrefYear{2017}.
 \unskip\
 \newblock
-\APACrefbtitle {{Characterisation of cell growth, metabolism and recombinant
+\APACrefbtitle {Characterisation of cell growth, metabolism and recombinant
   protein production during transient and steady state conditions for the human
-  cell line AGE1.HN-AAT}} {{Characterisation of cell growth, metabolism and
+  cell line {AGE1}.{HN}-{AAT}} {Characterisation of cell growth, metabolism and
   recombinant protein production during transient and steady state conditions
-  for the human cell line AGE1.HN-AAT}}\ \APACtypeAddressSchool {\BPhD}{}{}.
+  for the human cell line {AGE1}.{HN}-{AAT}}\ \APACtypeAddressSchool {{PhD}
+  {Thesis}}{}{}.
 \unskip\
 \newblock
-\begin{APACrefURL} \url{https://pure.mpg.de/pubman/item/item{\_}2508673{\_}4}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reed%
+, Vo%
+, Schilling%
+\BCBL {}\ \BBA {} Palsson%
+}{%
+Reed%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+reed_expanded_2003}
+\APACinsertmetastar {%
+reed_expanded_2003}%
+\begin{APACrefauthors}%
+Reed, J\BPBI L.%
+, Vo, T\BPBI D.%
+, Schilling, C\BPBI H.%
+\BCBL {}\ \BBA {} Palsson, B\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An expanded genome-scale model of {Escherichia} coli
+  {K}-12 ({iJR904} {GSM}/{GPR})} {An expanded genome-scale model of
+  {Escherichia} coli {K}-12 ({iJR904} {GSM}/{GPR})}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genome Biology}{4}{9}{R54}.
+\newblock
+\begin{APACrefURL} [{2019-12-13}]\url{https://doi.org/10.1186/gb-2003-4-9-r54}
   \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1186/gb-2003-4-9-r54} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -434,9 +346,9 @@ Shlomi%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2011}}%
 }]{%
-Shlomi2011}
+shlomi_genome-scale_2011}
 \APACinsertmetastar {%
-Shlomi2011}%
+shlomi_genome-scale_2011}%
 \begin{APACrefauthors}%
 Shlomi, T.%
 , Benyamini, T.%
@@ -446,85 +358,54 @@ Shlomi, T.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2011}{}{}.
+\APACrefYearMonthDay{2011}{{\APACmonth{03}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Genome-scale metabolic modeling elucidates the role of
-  proliferative adaptation in causing the Warburg effect.}} {{Genome-scale
-  metabolic modeling elucidates the role of proliferative adaptation in causing
-  the Warburg effect.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {Genome-{Scale} {Metabolic} {Modeling} {Elucidates} the
+  {Role} of {Proliferative} {Adaptation} in {Causing} the {Warburg} {Effect}}
+  {Genome-{Scale} {Metabolic} {Modeling} {Elucidates} the {Role} of
+  {Proliferative} {Adaptation} in {Causing} the {Warburg} {Effect}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{PLoS computational biology}{7}{3}{e1002018}.
+\APACjournalVolNumPages{PLOS Computational Biology}{7}{3}{e1002018}.
 \newblock
 \begin{APACrefURL}
-  \url{http://www.ncbi.nlm.nih.gov/pubmed/21423717{\%}0Ahttp://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3053319}
+  [{2019-11-05}]\url{https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002018}
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1371/journal.pcbi.1002018} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Tzur%
-, Kafri%
-, LeBleu%
-, Lahav%
-\BCBL {}\ \BBA {} Kirschner%
+van Heerden%
+\ \BBA {} Nicol%
 }{%
-Tzur%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2009}}%
+van Heerden%
+\ \BBA {} Nicol%
+}{%
+{\protect \APACyear {2013}}%
 }]{%
-Tzur2009}
+van_heerden_continuous_2013}
 \APACinsertmetastar {%
-Tzur2009}%
+van_heerden_continuous_2013}%
 \begin{APACrefauthors}%
-Tzur, A.%
-, Kafri, R.%
-, LeBleu, V\BPBI S.%
-, Lahav, G.%
-\BCBL {}\ \BBA {} Kirschner, M\BPBI W.%
+van Heerden, C\BPBI D.%
+\BCBT {}\ \BBA {} Nicol, W.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2009}{}{}.
+\APACrefYearMonthDay{2013}{{\APACmonth{09}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Cell growth and size homeostasis in proliferating
-  animal cells}} {{Cell growth and size homeostasis in proliferating animal
-  cells}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Continuous and batch cultures of {Escherichia} coli
+  {KJ134} for succinic acid fermentation: metabolic flux distributions and
+  production characteristics} {Continuous and batch cultures of {Escherichia}
+  coli {KJ134} for succinic acid fermentation: metabolic flux distributions and
+  production characteristics}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Science}{325}{5937}{167--171}.
+\APACjournalVolNumPages{Microbial Cell Factories}{12}{1}{80}.
 \newblock
-\begin{APACrefDOI} \doi{10.1126/science.1174294} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Wang%
-\ \protect \BOthers {.}}{%
-Wang%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2016}}%
-}]{%
-Wang2016}
-\APACinsertmetastar {%
-Wang2016}%
-\begin{APACrefauthors}%
-Wang, J.%
-, Cazzato, E.%
-, Ladewig, E.%
-, Frattini, V.%
-, Rosenbloom, D\BPBI I.%
-, Zairis, S.%
-\BDBL {}Rabadan, R.%
-\end{APACrefauthors}%
-\unskip\
+\begin{APACrefURL} \url{https://doi.org/10.1186/1475-2859-12-80}
+  \end{APACrefURL}
 \newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Clonal evolution of glioblastoma under therapy}}
-  {{Clonal evolution of glioblastoma under therapy}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Nature Genetics}{48}{7}{768--776}.
-\newblock
-\begin{APACrefDOI} \doi{10.1038/ng.3590} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.1186/1475-2859-12-80} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

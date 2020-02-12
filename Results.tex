@@ -1,3 +1,31 @@
-\section{Results} 
-	\input{Low_conc_Results}
-	\input{High_conc_Results}
+\section{Results and Discussion} 
+
+	The main objective of this work is to explore the capability of an application of the Maximum Entropy ($MaxEnt$) framework to the modeling of the cellular metabolism in a continuous cultivations regime. $MaxEnt$ has been used for the analysis of other biology related problems with success. It has become into an useful tool when we are dealing with limited data, which actually is a common scenario in biology \shortcite{de_martino_introduction_2018}. In particular, the framework proposed in \shortcite{fernandez-de-cossio-diaz_characterizing_2017} and \shortcite{fernandez-de-cossio-diaz_maximum_2019} allows to link effectively the macroscopic variables that defined the state of a chemostat steady state, commonly accessible, with the underlying cellular metabolic state, harder to determine. 
+	
+	In the former article, a more traditional approach to model the metabolism was taken. It delegates in Flux Balance Analysis ($FBA$) \shortcite{orth_what_2010} for choosing the vector of reactions fluxes assumed to be determining the current metabolic state of the cell under the cultivation conditions. This method have been heavily used in the past decades with good results and a variety of applications ($citeRequired!!!$). 
+	It has the advantage of not requiring kinetic parameters from the cellular metabolism, which are generally unavailable data.
+	This is possible because $FBA$ apply a steady state assumption, justified in the time scale difference between regulatory (slow) and metabolic (fast) processes \shortcite{de_martino_introduction_2018}. 
+	Another assumption $FBA$ makes is that the cell population in the culture is homogeneous and are optimizing a given metabolic objective. 
+	$FBA$ returns the vector of all reactions fluxes that optimize the objective function subject to the applied constraints ($citeRequired!!!$). 
+	This vector will be taken as the definition of the metabolic state for all the cells in the culture, and with it all the predictions or analysis will be made \shortcite{fernandez-de-cossio-diaz_characterizing_2017}. 
+	
+	To overcome the limitation of not considering culture heterogeneity, although data shows that two cells in a culture are unlikely to be equal ($[citeRequired!!!18, ]$), a probability distribution can be defined over the set of all the possible metabolic states.
+	This distribution describe how probable a cell is found in one of the those states.
+	To infer such probability distribution in agreement with available experimental data, the $MaxEnt$ principle can be used  \shortcite{fernandez-de-cossio-diaz_maximum_2019}. 
+	Precisely, in this work $MaxEnt$ was apply in such a way that it returns the probability distribution that maximized the entropy and ensure the expected value of the growth rate to match with the experimentally observed.
+	Now, instead of a vector of reactions fluxes that optimize an objective function, the model will returns a vector containing the expected values for each reaction flux due to the inferred $MaxEnt$ distribution. 
+	This is a major advantage with respect to the $FBA$ framework, $MaxEnt$ do not assume that the cells $"have\ a\ goal"$, an objective function, it claims to compute the bias-less probability distribution in concordance with the imposed, data driven, constraints \shortcite{de_martino_introduction_2018}. 
+	The predictions of $FBA$ based on the optimization hypothesis 
+	
+	
+	\subsubsection{Human}
+	
+		 	\begin{figure}[H]
+		 	\includegraphics[scale = 0.5]{low_medium_1}
+		 	\caption{$FBA$ results showing the growth rate, $\mu$, and the viable cell density, $Xv$, dependence of $\xi$ for the six steady states. The solid lines represent the model predictions and the colored points show the experimental results. The model data was obtained for feed mediums with 0.5mM ($Recon3D$) and 0.0mM ($CHO$) concentration of phosphatidylethanolamine}
+		 	
+		 \end{figure}
+		
+		
+%  	\input{Low_conc_Results}
+%	\input{High_conc_Results}
