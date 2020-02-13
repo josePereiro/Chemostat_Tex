@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  11 FEB 2020 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  12 FEB 2020 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -175,42 +175,118 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
-
-(./Materials_and_Methods.tex (./Model_Framework.tex) (./Experimental_Data.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <7> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
+(Font)              <5> on input line 26.
+ [1
 
-Overfull \hbox (12.77066pt too wide) in paragraph at lines 4--5
-\OT1/cmr/m/n/10 formed 6 con-tin-u-ous cul-tures, ($\OML/cmm/m/it/10 A$\OT1/cmr
-/m/n/10 , $\OML/cmm/m/it/10 B$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 C$\OT1/cmr/m/
-n/10 , $\OML/cmm/m/it/10 D$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 E$\OT1/cmr/m/n/1
-0 , $\OML/cmm/m/it/10 F$\OT1/cmr/m/n/10 ), with the cell line AGE1.HN.AA1.
- []
-
-) (./Preparing_GEMs.tex [1
-
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]))
-Overfull \hbox (12.04088pt too wide) in paragraph at lines 7--18
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (12.04088pt too wide) in paragraph at lines 40--41
 \OT1/cmr/m/n/10 iJR904 []Reed et al.[], 2003) (down-load link: $\OML/cmm/m/it/1
 0 https \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ==darwin:di:uminho:pt=models$\OT1/cm
 r/m/n/10 )
  []
 
-[2] (./Results.tex
-Overfull \hbox (10.5656pt too wide) in paragraph at lines 12--18
+[2]
+Overfull \hbox (10.5656pt too wide) in paragraph at lines 61--67
 \OT1/cmr/m/n/10 data shows that two cells in a cul-ture are un-likely to be equ
 al ($[\OML/cmm/m/it/10 citeRequired\OT1/cmr/m/n/10 !!!18\OML/cmm/m/it/10 ; \OT1
 /cmr/m/n/10 ]$),
  []
 
-<low_medium_1.png, id=17, 629.2308pt x 462.528pt>
-File: low_medium_1.png Graphic file (type png)
-<use low_medium_1.png>
-Package pdftex.def Info: low_medium_1.png  used on input line 23.
-(pdftex.def)             Requested size: 314.61462pt x 231.26343pt.
-[3]) [4 <./low_medium_1.png>] (./References.tex (./MaxEnt_Exp.bbl
+<plots_s_EColi.png, id=17, 391.2216pt x 650.43pt>
+File: plots_s_EColi.png Graphic file (type png)
+<use plots_s_EColi.png>
+Package pdftex.def Info: plots_s_EColi.png  used on input line 79.
+(pdftex.def)             Requested size: 312.9777pt x 520.3447pt.
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   3
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   2
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Argument of \@tempf has an extra }.
+<inserted text> 
+                \par 
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\@cite }\def \reserved@b {\@cite <>}\futurelet \@let@token \ETC.
+! Paragraph ended before \@tempf was complete.
+<to be read again> 
+                   \par 
+l.80 ...\shortcite{van_heerden_continuous_2013}$.}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Float too large for page by 18.8447pt on input line 81.
+
+<corr_s_EColi.png, id=19, 631.158pt x 519.8622pt>
+File: corr_s_EColi.png Graphic file (type png)
+<use corr_s_EColi.png>
+Package pdftex.def Info: corr_s_EColi.png  used on input line 85.
+(pdftex.def)             Requested size: 347.13797pt x 285.92508pt.
+[3] [4 <./plots_s_EColi.png>] [5 <./corr_s_EColi.png>] (./References.tex
+(./MaxEnt_Exp.bbl
 Underfull \hbox (badness 3460) in paragraph at lines 14--40
 \OT1/cmr/m/n/10 Z., Barab^^Sasi, A.-L., & Olt-vai, Z. N.  (2007, July).  In-tra
 -cel-lu-
@@ -293,7 +369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--206
 .002   \OT1/cmr/m/n/10 doi:
  []
 
-[5]
+[6]
 Underfull \hbox (badness 1484) in paragraph at lines 353--376
 []\OT1/cmr/m/n/10 Shlomi, T., Benyamini, T., Got-tlieb, E., Sha-ran, R., & Rup-
 pin, E.
@@ -317,8 +393,8 @@ Overfull \hbox (69.49643pt too wide) in paragraph at lines 353--376
 nal.pcbi.1002018
  []
 
-)) [6] (./Appendix.tex (./Tables.tex
-<Table_3_1.png, id=34, 509.7444pt x 449.5194pt>
+)) [7] (./Appendix.tex (./Tables.tex
+<Table_3_1.png, id=40, 509.7444pt x 449.5194pt>
 File: Table_3_1.png Graphic file (type png)
 <use Table_3_1.png>
 Package pdftex.def Info: Table_3_1.png  used on input line 3.
@@ -334,7 +410,7 @@ LaTeX Warning: Citation `Rath2017a' undefined on input line 4.
 
 LaTeX Warning: Citation `Rath2017a' undefined on input line 4.
 
-<Table_4_10.png, id=35, 520.8258pt x 188.3838pt>
+<Table_4_10.png, id=41, 520.8258pt x 188.3838pt>
 File: Table_4_10.png Graphic file (type png)
 <use Table_4_10.png>
 Package pdftex.def Info: Table_4_10.png  used on input line 10.
@@ -345,7 +421,7 @@ LaTeX Warning: Citation `Rath2017a' undefined on input line 11.
 
 LaTeX Warning: Citation `Rath2017a' undefined on input line 11.
 
-<Table_4_11.png, id=36, 829.6596pt x 460.6008pt>
+<Table_4_11.png, id=42, 829.6596pt x 460.6008pt>
 File: Table_4_11.png Graphic file (type png)
 <use Table_4_11.png>
 Package pdftex.def Info: Table_4_11.png  used on input line 17.
@@ -361,7 +437,7 @@ LaTeX Warning: Citation `Rath2017a' undefined on input line 18.
 
 LaTeX Warning: Citation `Rath2017a' undefined on input line 18.
 
-<Table_4_12.png, id=37, 268.8444pt x 445.1832pt>
+<Table_4_12.png, id=43, 268.8444pt x 445.1832pt>
 File: Table_4_12.png Graphic file (type png)
 <use Table_4_12.png>
 Package pdftex.def Info: Table_4_12.png  used on input line 24.
@@ -372,20 +448,20 @@ LaTeX Warning: Citation `Rath2017a' undefined on input line 25.
 
 LaTeX Warning: Citation `Rath2017a' undefined on input line 25.
 
-)) [7 <./Table_3_1.png> <./Table_4_10.png>] [8 <./Table_4_11.png>] [9 <./Table_
-4_12.png>] (./MaxEnt_Exp.aux)
+)) [8 <./Table_3_1.png> <./Table_4_10.png>] [9 <./Table_4_11.png>] [10 <./Table
+_4_12.png>] (./MaxEnt_Exp.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2226 strings out of 492616
- 31842 string characters out of 6129482
- 101072 words of memory out of 5000000
- 6099 multiletter control sequences out of 15000+600000
+ 2216 strings out of 492616
+ 31669 string characters out of 6129482
+ 101075 words of memory out of 5000000
+ 6103 multiletter control sequences out of 15000+600000
  8409 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,25p,882b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,25p,865b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -396,10 +472,10 @@ ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
 l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
 texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on MaxEnt_Exp.pdf (9 pages, 1114168 bytes).
+Output written on MaxEnt_Exp.pdf (10 pages, 1407403 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
