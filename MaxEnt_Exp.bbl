@@ -168,6 +168,40 @@ Fernandez-de Cossio-Diaz, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gu%
+, Kim%
+, Kim%
+, Kim%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Gu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+gu_current_2019}
+\APACinsertmetastar {%
+gu_current_2019}%
+\begin{APACrefauthors}%
+Gu, C.%
+, Kim, G\BPBI B.%
+, Kim, W\BPBI J.%
+, Kim, H\BPBI U.%
+\BCBL {}\ \BBA {} Lee, S\BPBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Current status and applications of genome-scale
+  metabolic models} {Current status and applications of genome-scale metabolic
+  models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Genome Biology}{20}{1}{1--18}.
+\newblock
+\begin{APACrefDOI} \doi{10.1186/s13059-019-1730-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Niklas%
 , Priesnitz%
 , Rose%
@@ -239,6 +273,39 @@ Niklas, J.%
   Engineering}{34}{5}{533--545}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s00449-010-0502-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+O'Brien%
+, Monk%
+\BCBL {}\ \BBA {} Palsson%
+}{%
+O'Brien%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+obrien_using_2015}
+\APACinsertmetastar {%
+obrien_using_2015}%
+\begin{APACrefauthors}%
+O'Brien, E\BPBI J.%
+, Monk, J\BPBI M.%
+\BCBL {}\ \BBA {} Palsson, B\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Using genome-scale models to predict biological
+  capabilities} {Using genome-scale models to predict biological
+  capabilities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cell}{161}{5}{971--987}.
+\newblock
+\begin{APACrefURL} \url{http://dx.doi.org/10.1016/j.cell.2015.05.019}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.cell.2015.05.019} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -406,6 +473,39 @@ van Heerden, C\BPBI D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1186/1475-2859-12-80} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vazquez%
+\ \BBA {} Oltvai%
+}{%
+Vazquez%
+\ \BBA {} Oltvai%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+vazquez_macromolecular_2016}
+\APACinsertmetastar {%
+vazquez_macromolecular_2016}%
+\begin{APACrefauthors}%
+Vazquez, A.%
+\BCBT {}\ \BBA {} Oltvai, Z\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Macromolecular crowding explains overflow metabolism in
+  cells} {Macromolecular crowding explains overflow metabolism in
+  cells}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Scientific Reports}{6}{}{31007}.
+\newblock
+\begin{APACrefURL}
+  [{2019-11-04}]\url{https://www.nature.com/articles/srep31007}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1038/srep31007} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

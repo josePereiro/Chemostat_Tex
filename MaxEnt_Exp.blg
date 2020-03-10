@@ -12,47 +12,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: /Users/Pereiro/Documents/zotero.bib
-Warning--I didn't find a database entry for "Rath2017a"
+Warning--I didn't find a database entry for "kiviet_stochasticity_2014"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 12 entries,
+You've used 15 entries,
             6951 wiz_defined-function locations,
-            1374 strings with 14256 characters,
-and the built_in function-call counts, 28614 in all, are:
-= -- 3391
-> -- 235
-< -- 1588
-+ -- 1669
-- -- 24
-* -- 2084
-:= -- 5673
-add.period$ -- 48
-call.type$ -- 12
-change.case$ -- 218
+            1396 strings with 14888 characters,
+and the built_in function-call counts, 35046 in all, are:
+= -- 4172
+> -- 295
+< -- 1896
++ -- 2019
+- -- 30
+* -- 2524
+:= -- 6816
+add.period$ -- 60
+call.type$ -- 15
+change.case$ -- 271
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 726
-empty$ -- 1008
-format.name$ -- 423
-if$ -- 5070
+cite$ -- 30
+duplicate$ -- 928
+empty$ -- 1255
+format.name$ -- 529
+if$ -- 6274
 int.to.chr$ -- 0
-int.to.str$ -- 36
+int.to.str$ -- 45
 missing$ -- 0
-newline$ -- 365
-num.names$ -- 96
-pop$ -- 325
+newline$ -- 456
+num.names$ -- 120
+pop$ -- 410
 preamble$ -- 1
-purify$ -- 62
+purify$ -- 76
 quote$ -- 0
-skip$ -- 1642
+skip$ -- 2032
 stack$ -- 0
-substring$ -- 1765
-swap$ -- 445
-text.length$ -- 38
+substring$ -- 2148
+swap$ -- 556
+text.length$ -- 46
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1024
+type$ -- 1264
 warning$ -- 0
-while$ -- 152
+while$ -- 189
 width$ -- 0
-write$ -- 469
+write$ -- 588
 (There was 1 warning)
