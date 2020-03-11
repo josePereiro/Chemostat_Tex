@@ -1,5 +1,6 @@
 \documentclass[]{article}
 \usepackage{graphicx}
+\graphicspath{{images/}}
 \usepackage{rotating}
 \usepackage{apacite}
 \usepackage[numbib]{tocbibind}
@@ -7,12 +8,71 @@
 
 %opening
 \title{Maximum entropy and population heterogeneity in 
-	continuous cell cultures meet experimental data, preliminary results}
-\author{}
+	continuous cell cultures, validation with experimental data}
+\author{Jose A. Pereiro-Morejon, Jorge Fernandez-de-Cossio-Diaz, Roberto Mulet }
 
 \begin{document}
 	
 	\maketitle
+	
+	\section{Introduction}
+	The study of cellular metabolism is a research area with direct potential impact in biological sciences, medicine and industry.
+	An example is that cell culture-derived products are a major part of the multi-billion biotechnological industry portfolio. 
+	This products are obtained by exploding the capability of cellular metabolism to produce molecules with a wide range of chemical complexity. 
+	For this propose, cells are cultivated in three common modes: batch, fed-batch and continuous. 
+	In batch, cultivation starts with a medium rich in nutrients that will be consumed completely by the cells, often till starvation. 
+	Similarly, fed-batch cultures starts will a nutrient pool, but it is resupplied in discrete time intervals. 
+	On the other hand, in continuous mode, fresh medium constantly replaces culture fluid at a given rate.
+	
+	The chemostat is an example of continuous cultivation devise ($citeRequired6$).
+	# TODO: continue and explain: By definition, a continuous cell culture ideally reaches a steady state 
+	
+	Although advantages of continuouscultivation have been commonly mentioned in the literature ($citeRequired1$), the preferred use of these technics over batch or fed-batch struggle with the complexity displayed by continuous systems, i.e., hysteresis, multi-stability or sharp transitions between metabolic states($citeRequired2$). 
+	Mathematical modeling can driver our efforts to understand the cellular metabolism and then suggest strategies to improve production efficiency using continuous cultivation methods. 
+	This could lead to a decrease in the production costs and subsequently, to a reduction on medicine prices and a broader accessibility to treatments.
+	Therefor, for the industry, it is fundamental the development of theoretical frameworks that allows, for example, predict how to reach an optimal stable cultivation state given a cell of interest and the medium to be used. 
+	
+	A major driver of biological discovery are currently found in increasingly accurate experimental techniques that generate unprecedented amount of thoughtful data. Information about cellular metabolism, at independent reaction level, had lead to the development of genome-scale metabolic networks ($GEMs$) ($citeRequire3$). These networks have been used to build mathematical models of the cellular metabolism ($citeRequired4$). Constraints-based analysis, but in particular, Flux Balance Analysis ($FBA$) have had successful predictions of cell metabolism in the growth phase of batch cultures ($citeRequired5$). On the other hand, a methodology for applying ($FBA$) in the context of a continuous cultivation have been proposed \shortcite{fernandez-de-cossio-diaz_characterizing_2017}. It introduced a detailed characterization of the steady state
+	
+	% citeRequired5
+	% 20. Palsson, B. Ø. Systems Biology: Properties of Reconstructed Networks (Cambridge University Press, 2006).
+	
+	% citeRequired1
+	% 1. Werner, R. G., Walz, F., Noe, W. & Konrad, A. Safety and economic aspects of continuous mammalian cell culture. ´
+	% Journal of Biotechnology 22, 51–68 (1992).
+	% 2. Griffiths, J. B. Animal cell culture processes - batch or continuous? Journal of Biotechnology 22, 21–30 (1992).
+	% 3. Kadouri, A. & Spier, R. E. Some myths and messages concerning the batch and continuous culture of animal cells.
+	% Cytotechnology 24, 89–98 (1997).
+	% 4. Werner, R. G. & Noe, W. Letter to the Editor. Cytotechnology 26, 81–82 (1998).
+	% 5. Croughan, M. S., Konstantinov, K. B. & Cooney, C. The future of industrial bioprocessing: Batch or continuous?
+	% Biotechnology and Bioengineering 112, 648–651 (2015).
+	
+	% citeRequired2
+	% 8. Europa AF, Gambhir A, Fu PC, Hu WS. Multiple steady states with distinct cellular metabolism in continuous culture of mammalian cells. Biotechnology and Bioengineering. 2000; 67(1):25–34. https://doi.org/
+	% 10.1002/(SICI)1097-0290(20000105)67:1%3C25::AID-BIT4%3E3.0.CO;2-K PMID: 10581433
+	% 9. Altamirano C, Illanes A, Casablancas A, Ga´mez X, Cairo´ JJ, Gòdia C. Analysis of CHO cells metabolic
+	% redistribution in a glutamate-based defined medium in continuous culture. Biotechnology Progress.
+	% 2001; 17(6):1032–1041. https://doi.org/10.1021/bp0100981 PMID: 11735437
+	% 10. Hayter PM, Curling EMa, Baines AJ, Jenkins N, Salmon I, Strange PG, et al. Glucose-Limited Chemostat Culture of Chinese Hamster Ovary Cells Producing Recombinant Human Interferon-γ. Biotechnology and Bioengineering. 1992; 39:327–335. https://doi.org/10.1002/bit.260390311 PMID: 18600949
+	% 11. Gambhir A, Korke R, Lee J, Fu PC, Europa AF, Hu WS. Analysis of cellular metabolism of hybridoma
+	% cells at distinct physiological states. Journal of bioscience and bioengineering. 2003; 95(4):317–27.
+	% https://doi.org/10.1016/S1389-1723(03)80062-2 PMID: 16233414
+	% 12. Follstad BD, Balcarcel RR, Stephanopoulos G, Wang DI. Metabolic flux analysis of hybridoma continuous culture steady state multiplicity. Biotechnology and Bioengineering. 1999; 63(6):675–683. https://
+	% doi.org/10.1002/(SICI)1097-0290(19990620)63:6%3C675::AID-BIT5%3E3.0.CO;2-R PMID: 10397824
+	% 13. Fernandez-de Cossio-Diaz J, Leon K, Mulet R. Characterizing steady states of genome-scale metabolic
+	% networks in continuous cell cultures. PLoS Computational Biology. 2017; 13(11):e1005835. https://doi.
+	% org/10.1371/journal.pcbi.1005835 PMID: 29131817
+	
+	% citeRequire3
+	% 15. Kanehisa, M. et al. Data, information, knowledge and principle: Back to metabolism in KEGG. Nucleic Acids Research
+	% 42, 199–205 (2014)
+	% 16. Caspi, R. et al. The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of Pathway/Genome
+	% Databases. Nucleic Acids Research 42, D459–D471 (2014).
+	
+	% citeRequired4
+	% 20. Palsson, B. Ø. Systems Biology: Properties of Reconstructed Networks (Cambridge University Press, 2006).
+	
+	
 	
 	\section{Materials and Method}
 	
@@ -23,13 +83,13 @@
 	\subsection{Chemostat experimental data} 
 	
 	\subsubsection{Escherichia coli KJ134} 
-	Continuous cultivation data for Escherichia coli ($E. coli$) were taken from \shortcite{van_heerden_continuous_2013}. The used Escherichia coli KJ134 strain was genetically modified for succinic acid fermentation. A dozen of steady states were recorded at different dilution rates and $GLC$ availability in the feed medium. Data for the effluent concentration of $GLC$, succinic acid ($SA$), acetic acid ($AcA$), form acid ($FA$) and malic acid ($MA$) for the different steady states were given. Also, the cell density was reported.
+	Continuous cultivation data for Escherichia coli ($E. coli$) were taken from \shortcite{van_heerden_continuous_2013}. The used Escherichia coli KJ134 strain was genetically modified for succinic acid fermentation. A dozen of steady states were recorded at different dilution rates and $GLC$ availability in the feed medium. Data for the effluent concentration of $GLC$, succinic acid ($SA$), acetic acid ($AcA$), formic acid ($FA$) and malic acid ($MA$) for the different steady states were given. Also, the cell concentration was reported.
 	
 	
 	\subsubsection{Human cell line AGE1.HN.AA1} 
-	Experimental data were taken from \shortcite{rath_characterisation_2017}. In this work, the author performed 6 continuous cultures of the cell line AGE1.HN.AA1. Its parental line AGE1.HN was established by the company ProBioGen (ProBioGen AG, Berlin, Germany) from a tissue sample of a human brain. The experiments were run under various conditions, differing mainly in the dilution rate ($D$) and the feed medium composition of glucose ($GLC$), glutamine ($GLN$) and galactose ($GAL/GALC$) $Table\ 2$.
+	Experimental data were taken from \shortcite{rath_characterisation_2017}. In this work, the author performed 6 continuous cultures of the cell line AGE1.HN.AA1. Its parental line AGE1.HN was established by the company ProBioGen (ProBioGen AG, Berlin, Germany) from a tissue sample of a human brain. The experiments were run under various conditions, differing mainly in the dilution rate ($D$) and the feed medium composition of glucose ($GLC$), glutamine ($GLN$) and galactose ($GAL$) $Table\ 2$.
 	
-	For each experiment, a steady-state condition was reached, (steady states were labeled $A$, $B$, $C$, $D$, $E$, $F01$), and several observables were reported. Particularly relevant for this work was the growth rate ($\mu$), $D$, the viable cell density ($Xv$) and the medium concentration ($s$) and derived uptake rate ($q$) for a set of metabolites ($GLC$, lactose ($LAC$), $GLN$, ammonium ($NH4$), $GAL$, pyruvate ($PYR$), glutamate ($GLU$), alanine ($ALA$), asparagine ($ASP$)). A unit conversion was required to make experimental data and our model compatible. For this propose the only external data needed was the cell mass density, 0.25 pgDW/ $\mu$$m^3$ \shortcite{niklas_quantitative_2011}.
+	For each experiment, a steady-state condition was reached, (steady states were labeled $A$, $B$, $C$, $D$, $E$, $F01$), and several observables were reported. Particularly relevant for this work was the growth rate ($\mu$), $D$, the viable cell concentration ($Xv$) and the medium concentration ($s$) and derived uptake rate ($q$) for a set of metabolites ($GLC$, lactose ($LAC$), $GLN$, ammonium ($NH4$), $GAL$, pyruvate ($PYR$), glutamate ($GLU$), alanine ($ALA$), asparagine ($ASP$)). A unit conversion was required to make experimental data and our model compatible. For this propose the only external data needed was the cell mass density, 0.25 pgDW/ $\mu$$m^3$ \shortcite{niklas_quantitative_2011}.
 	
 	
 	\subsection{Preparing GEMs} 
@@ -61,9 +121,9 @@
 	To overcome the limitation of considering culture homogeneity, a probability distribution can be defined over the set of all the possible metabolic states.
 	This distribution describes how probable is to find a cell in one metabolic state.
 	To infer such probability distribution in agreement with available experimental data, the $MaxEnt$ principle can be used  \shortcite{fernandez-de-cossio-diaz_maximum_2019}. 
-	In this work $MaxEnt$ was apply in such a way that it returns the probability distribution that maximized the entropy and ensures the expected value of the growth rate to match with the experimentally observed.
+	In this work $MaxEnt$ was applied in such a way that it returns the probability distribution that maximized the entropy and ensures the expected value of the growth rate to match with the experimentally observed.
 	Now, instead of a vector of reactions fluxes that optimize an objective function, the model will return a vector containing the probability distribution for each reaction flux due to the inferred $MaxEnt$ distribution. 
-	This is a major advantage with respect to the $FBA$ framework, $MaxEnt$ do not assume that the cells $"have\ a\ goal"$, an objective function, it claims to compute the bias-less probability distribution in concordance with the imposed, data-driven, constraints \shortcite{de_martino_introduction_2018}. On the other hand, the main practical problem of using the metabolic $MaxEnt$ model is that it can represent a computationally expensive task, but this problem was also addressed by \shortcite{fernandez-de-cossio-diaz_maximum_2019} using expectation propagation.
+	This is a major advantage with respect to the $FBA$ framework, $MaxEnt$ not assume that the cells $"have\ a\ goal"$, an objective function, it claims to compute the bias-less probability distribution in concordance with the imposed, data-driven, constraints \shortcite{de_martino_introduction_2018}. On the other hand, the main practical problem of using the metabolic $MaxEnt$ model is that it can represent a computationally expensive task, but this problem was also addressed by \shortcite{fernandez-de-cossio-diaz_maximum_2019} using expectation propagation algorithms.
 	
 	
 	% To download
@@ -81,7 +141,7 @@
 	This extra piece of information added to the model allow us to have much better correlations with respect to the $FBA$ results, $Figure\ 2$.
 	In the cases of $GLC$ and $AcA$, two important metabolites related to the energetic metabolism, the improvements are notable.
 	The $FA$ correlations for the $MaxEnt$ model wasn't good, but in contrast, $FBA$ is completely blind to it.
-	Also, it is possible to observe in the graphs of $\mu$ and cell density ($Xv$)  that $FBA$ really over-determinate these quantities. 
+	Also, it is possible to observe in the graphs of $\mu$ and cell concentration ($Xv$)  that $FBA$ really over-determinate these quantities. 
 	This fact may suggest, among others, that the imposed constraints are too permissive. 
 	Also, although in the case of $E.\ coli$, the hypothesis of biomass maximization made by $FBA$ is generally accepted, it could not be valid for all situations.
 	As explained before, $MaxEnt$ do not make this assumption, it just ajust the model to available experimental data.
@@ -101,30 +161,30 @@
 	For the rest of the results, $GLC$, $GLU$, $GAL$ and $ASP$, both model shows similar predictions, only satisfactory for $GLC$. 
 	Because exchange fluxes and the concentration of metabolites in the effluent are two related quantities, results showed in $Figure\ 5 - 6$ mirror the former ones.
 	
-	It is notable that, although both models are not using a cell-line context-specific network, which is in our opinion the more significant source of error, they were capable of capturing many of the metabolic features encode in the experimental data.
+	It is notable that, although both models are not using a cell-line context-specific network, which is in our opinion the most significant source of error, they were capable of capturing many of the metabolic features encode in the experimental data.
 	
 	\begin{figure}
 		\centering
 		\includegraphics[scale = 0.7]{plots_s_EColi}
-		\caption{Predictions (lines) of both, $FBA$ (left column) and $MaxEnt$ (right column) models, facing the experimental data (colored circles) reported in \protect\shortcite{van_heerden_continuous_2013} using $Escherichia\ coli\ KJ134$. Rows shows the growth rate ($\mu$), the cell density ($Xv$), the effluent concentration ($s$) of acetic acid ($AcA$), formic acid ($FA$) and glucose ($GLC$) respectively as a function of the cell-specific dilution rate ($\xi$) . $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see first row right column)}
+		\caption{Predictions (lines) of both, $FBA$ (left column) and $MaxEnt$ (right column) models, facing the experimental data (colored circles) reported in \protect\shortcite{van_heerden_continuous_2013} using $Escherichia\ coli\ KJ134$. Rows shows the growth rate ($\mu$), the cell concentration ($Xv$), the effluent concentration ($s$) of acetic acid ($AcA$), formic acid ($FA$) and glucose ($GLC$) respectively as a function of the cell-specific dilution rate ($\xi$) . $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see first row right column)}
 	\end{figure}
 	
 	\begin{figure}
 		\centering
 		\includegraphics[scale = 0.7]{corr_s_EColi}
-		\caption{Correlations of the results of both models (y axis), $FBA$ (left column) and $MaxEnt$ (right column), facing the experimental data (x axis) reported in \protect\shortcite{van_heerden_continuous_2013} using $Escherichia\ coli\ KJ134$. Rows shows the growth rate ($\mu$), the cell density ($Xv$), the effluent concentration ($s$) of acetic acid ($AcA$), formic acid ($FA$) and glucose ($GLC$) correlations respectively. $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see first row right column)}
+		\caption{Correlations of the results of both models (y axis), $FBA$ (left column) and $MaxEnt$ (right column), facing the experimental data (x axis) reported in \protect\shortcite{van_heerden_continuous_2013} using $Escherichia\ coli\ KJ134$. Rows shows the growth rate ($\mu$), the cell concentration ($Xv$), the effluent concentration ($s$) of acetic acid ($AcA$), formic acid ($FA$) and glucose ($GLC$) correlations respectively. $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see first row right column)}
 	\end{figure}
 	
 	\begin{sidewaysfigure}
 		\centering
 		\includegraphics[scale = 0.6]{plots_q_Human}
-		\caption{Exchange fluxes ($q$), growth rate ($\mu$) and cell density ($Xv$) as a function of the cell-specific dilution rate ($\xi$). Graphs are arranged as three paired columns. Each pair have the models prediction (lines),  $FBA$ (left column) and $MaxEnt$ (right column), and experimental data (colored circles) from \protect\shortcite{rath_characterisation_2017} for continuous cultures of the human derived cell line $AGE1.HN.AA1$. $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see third paired colum, second row)} 
+		\caption{Exchange fluxes ($q$), growth rate ($\mu$) and cell concentration ($Xv$) as a function of the cell-specific dilution rate ($\xi$). Graphs are arranged as three paired columns. Each pair have the models prediction (lines),  $FBA$ (left column) and $MaxEnt$ (right column), and experimental data (colored circles) from \protect\shortcite{rath_characterisation_2017} for continuous cultures of the human derived cell line $AGE1.HN.AA1$. $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see third paired colum, second row)} 
 	\end{sidewaysfigure}
 
 	\begin{sidewaysfigure}
 		\centering
 		\includegraphics[scale = 0.6]{corr_q_Human}
-		\caption{Correlations of the predicted (y axis) exchange fluxes ($q$), growth rate ($\mu$) and cell density ($Xv$) against experimental data (x axis) from \protect\shortcite{rath_characterisation_2017} for continuous cultures of the human derived cell line $AGE1.HN.AA1$. Graphs are arranged as three paired columns. Each pair have the correlations using $FBA$ (left column) and $MaxEnt$ (right column) models. $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see third paired colum, second row)}
+		\caption{Correlations of the predicted (y axis) exchange fluxes ($q$), growth rate ($\mu$) and cell concentration ($Xv$) against experimental data (x axis) from \protect\shortcite{rath_characterisation_2017} for continuous cultures of the human derived cell line $AGE1.HN.AA1$. Graphs are arranged as three paired columns. Each pair have the correlations using $FBA$ (left column) and $MaxEnt$ (right column) models. $MaxEnt$ distribution was chosen in a manner that the expected value of the growth rate coincide with the experimental data (see third paired colum, second row)}
 	\end{sidewaysfigure}
 
 	\begin{sidewaysfigure}
@@ -140,7 +200,8 @@
 	\end{sidewaysfigure}	
 	
 	\newpage
-	\input{References}
+	\bibliographystyle{apacite}
+	\bibliography{/Users/Pereiro/Documents/zotero.bib}
 	
 \end{document}
 
