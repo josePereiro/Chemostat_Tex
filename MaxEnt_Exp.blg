@@ -12,11 +12,10 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: /Users/Pereiro/Documents/zotero.bib
-Warning--I didn't find a database entry for "kiviet_stochasticity_2014"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 15 entries,
             6951 wiz_defined-function locations,
-            1396 strings with 14888 characters,
+            1395 strings with 14863 characters,
 and the built_in function-call counts, 35046 in all, are:
 = -- 4172
 > -- 295
@@ -55,4 +54,3 @@ warning$ -- 0
 while$ -- 189
 width$ -- 0
 write$ -- 588
-(There was 1 warning)
